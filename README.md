@@ -1,2 +1,2 @@
 # android-scripts
-Various scripts for android
+Various root scripts for android
